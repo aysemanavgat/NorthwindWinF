@@ -1,0 +1,15 @@
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\bin\Debug\NorthwindProje.exe.config
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\bin\Debug\NorthwindProje.exe
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\bin\Debug\NorthwindProje.pdb
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\obj\Debug\NorthwindProje.csprojAssemblyReference.cache
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\obj\Debug\NorthwindProje.Form1.resources
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\obj\Debug\NorthwindProje.Properties.Resources.resources
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\obj\Debug\NorthwindProje.csproj.GenerateResource.cache
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\obj\Debug\NorthwindProje.csproj.CoreCompileInputs.cache
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\obj\Debug\NorthwindProje.exe
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\obj\Debug\NorthwindProje.pdb
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\bin\Debug\EntityFramework.dll
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\bin\Debug\EntityFramework.xml
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AYŞE-PC\C# Çalışmalar\exercises c#\NorthwindWinForm\NorthwindProje\obj\Debug\NorthwindProje.csproj.CopyComplete
